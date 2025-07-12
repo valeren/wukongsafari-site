@@ -8,7 +8,7 @@ enableRobotsTXT = true
 [params]
   description = "欢迎来到悟空游猎 —— 您在东非草原的中文旅行管家"
   author = "Wukong Safari"
-  slogan = "roam far and wide, leave your worries behind"
+  slogan = "roam far and wide leave your worries behind"
 
 [menu]
   [[menu.main]]
