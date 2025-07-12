@@ -1,0 +1,42 @@
+
+baseURL = "https://wukongsafari.netlify.app/"
+languageCode = "zh-cn"
+title = "悟空游猎 Wukong Safari"
+theme = "wukong"
+enableRobotsTXT = true
+
+[params]
+  description = "欢迎来到悟空游猎 —— 您在东非草原的中文旅行管家"
+  author = "Wukong Safari"
+  slogan = "roam far and wide, leave your worries behind"
+
+[menu]
+  [[menu.main]]
+    name = "首页"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "查看及预定行程"
+    url = "/routes/"
+    weight = 2
+
+  [[menu.main]]
+    name = "精选相册"
+    url = "/gallery/"
+    weight = 3
+
+  [[menu.main]]
+    name = "游客评价"
+    url = "/reviews/"
+    weight = 4
+
+  [[menu.main]]
+    name = "常见问题"
+    url = "/faq/"
+    weight = 5
+
+  [[menu.main]]
+    name = "联系我们"
+    url = "/contact/"
+    weight = 6
